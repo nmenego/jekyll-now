@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Tweak The Environment
+tags: product book-review
 ---
 
 I recently started reading [Switch: How to Change Things When Change is Hard](https://www.amazon.com/Switch-Change-Things-When-Hard/dp/0385528752) by Chip Heath and Dan Heath. On the first chapter, the authors described 3 surprises about change. One that stuck to me was:

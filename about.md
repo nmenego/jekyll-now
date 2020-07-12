@@ -14,7 +14,7 @@ I love coffee and anything outdoors. I'm passionate about environmental conserva
 
 I'm always up for a meaningful conversation if you are as interested as me about the matters above. So don't hesitate to drop me an email here in [LinkedIn](https://www.linkedin.com/in/nmenego/)!
 
-[Software Engineer | Product Engineer | Full-stack Developer]
+Software Engineer \| Product Engineer \| Full-stack Developer
 
 
 ## Blog

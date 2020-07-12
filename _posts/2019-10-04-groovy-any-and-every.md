@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Groovy any() and every()
+tags: tech groovy java
 ---
 
 While writing a feature in one of the services in my current company, found a very nifty Groovy function.

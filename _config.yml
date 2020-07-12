@@ -6,15 +6,15 @@ highlighter:      pygments
 permalink:        pretty
 
 # Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              http://hyde.getpoole.com
+title:            'TIL by Nico'
+tagline:          'Learning something new everyday' 
+description:      'A blog dedicated to everyday learnings and musings.'
+url:              http://nmenego.github.io
 baseurl:          /
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Nico Martin Eñego'
+  url:            https://www.linkedin.com/in/nmenego/
 
 paginate:         5
 

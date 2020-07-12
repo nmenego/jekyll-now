@@ -12,4 +12,4 @@ Similar to the XKCD wanted to give a tribute to him as well by writing a simulat
 
 ![conway java](https://user-images.githubusercontent.com/1195503/87245615-47a05c00-c479-11ea-88b2-89faac9abcfd.gif)
 
-Repo in: https://github.com/nmenego/conways-game-of-life
+Repo in: [here](https://github.com/nmenego/conways-game-of-life)

@@ -14,14 +14,13 @@ I love coffee and anything outdoors. I'm passionate about environmental conserva
 
 I'm always up for a meaningful conversation if you are as interested as me about the matters above. So don't hesitate to drop me an email here in [LinkedIn](https://www.linkedin.com/in/nmenego/)!
 
-Software Engineer | Product Engineer | Full-stack Developer 
+[Software Engineer | Product Engineer | Full-stack Developer]
 
 
 ## Blog
 
 Some fun facts about the setup of this blog include:
 
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
+* Hosted for free on [GitHub Pages](https://pages.github.com)
 * Forked from [Jekyll Now](https://github.com/barryclark/jekyll-now) and [Hyde](https://github.com/poole/hyde)
 * Hosted in https://github.com/nmenego/nmenego.github.io

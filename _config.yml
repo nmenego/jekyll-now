@@ -10,7 +10,7 @@ title:            'TIL by Nico'
 tagline:          'Learning something new everyday' 
 description:      'A blog dedicated to everyday learnings, ramblings, and musings.'
 url:              'https://nmenego.github.io/'
-baseurl:          'https://github.com/nmenego/nmenego.github.io/'
+baseurl:          'https://nmenego.github.io/'
 
 author:
   name:           'Nico Martin Eñego'

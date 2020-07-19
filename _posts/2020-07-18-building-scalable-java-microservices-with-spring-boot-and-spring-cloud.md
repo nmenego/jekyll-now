@@ -4,9 +4,9 @@ title: Course Review - Building Scalable Java Microservices with Spring Boot and
 tags: course-review java spring google-cloud
 ---
 
-Today, wanted to explore some GCP tools out of interest. As we use mostly AWS solutions at work, I never really had the chance to test out Google's offerings.
+Today, wanted to explore some GCP tools out of interest. As we use mostly AWS solutions at work, I never really had the chance to test out Google's offerings. I found this random course in Coursera: [Building Scalable Java Microservices with Spring Boot and Spring Cloud](https://www.coursera.org/learn/google-cloud-java-spring). 
 
-I found this random course in Coursera: [Building Scalable Java Microservices with Spring Boot and Spring Cloud](https://www.coursera.org/learn/google-cloud-java-spring). I managed to go through all the labs in one day, whilst watching Hamilton movie while the waiting on some commands to finish. This was because some of the lab exercises required some waiting time to be able to load all resources. (More on this on stuff I did not like)
+What's nice about this course is that the laboratory exercises are prepared by [Qwiklabs](https://www.qwiklabs.com/) and that the student is actually presented with a real hands-on GCP environment to play around with. I managed to go through all the labs in one day, while watching Hamilton movie and waiting for the GCP resources to finish loading. I wanted to highlight the things I liked and disliked about the course in this post.
 
 ## Pros
 1. Covers a lot of ground for a short amount of time.
